@@ -1,5 +1,5 @@
 " Vim syntax file
-" Language: BIRL
+" Language:     BIRL
 " Maintainer:   Leonardo Brayner e Silva
 " Repository:   https://github.com/lbrayner/birl.vim
 " License:      Vim
